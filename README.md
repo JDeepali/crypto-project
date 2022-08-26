@@ -1,1 +1,1 @@
-# cyrpto-project
+# crypto-project
